@@ -1,4 +1,4 @@
-# adidas-sales-analysis-excel
+# Adidas-Sales-Analysis-Excel
 Adidas sales data analysis project using Excel
 
 
